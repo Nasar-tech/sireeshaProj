@@ -1,0 +1,62 @@
+[
+  {
+    "id":1,
+    "selected": true,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUThPfV1zp6taE_pbKKSB6xMfxMGY-nlDQtg&usqp=CAU",
+    "asset": "Fin Air cooled Heat Exchanger",
+    "category": "plastering Auxiliaries",
+    "location": "Metafit Industries",
+    "assetHealth": "normal",
+    "opencase": 3,
+    "maintenance": "15 Feb 2022",
+    "days":"15 days"
+  },
+  {
+    "id":2,
+    "selected": true,
+    "image": "https://5.imimg.com/data5/AQ/QA/MY-2471628/modular-air-cooled-scroll-chiller-500x500.jpg",
+    "asset": "Modular Air Cooled Chiller",
+    "category": "plastering Auxiliaries",
+    "location": "Metafit Industries",
+    "assetHealth": "normal",
+    "opencase": 3,
+    "maintenance": "15 Feb 2022",
+    "days":"15 days"
+  },
+  {
+    "id":3,
+    "selected": true,
+    "image": "https://m.media-amazon.com/images/I/81ymhfA44VL._SL1500_.jpg",
+    "asset": "Ambulance",
+    "category": "plastering Auxiliaries",
+    "location": "Metafit Industries",
+    "assetHealth": "normal",
+    "opencase": 3,
+    "maintenance": "15 Feb 2022",
+    "days":"15 days"
+  },
+  {
+    "id":4,
+    "selected": true,
+    "image": "https://5.imimg.com/data5/VN/YC/SF/SELLER-7673513/sledd-series-vertical-autoclave-500x500.jpg",
+    "asset": "AutoClave Model",
+    "category": "plastering Auxiliaries",
+    "location": "Metafit Industries",
+    "assetHealth": "normal",
+    "opencase": 3,
+    "maintenance": "15 Feb 2022",
+    "days":"20 days"
+  },
+  {
+    "id":5,
+    "selected": false,
+    "image": "https://m.media-amazon.com/images/I/91DsJYDwCeL._SY450_.jpg",
+    "asset": "Aqua Edge",
+    "category": "Aqua Edge",
+    "location": "Metafit Industries",
+    "assetHealth": "normal",
+    "opencase": 3,
+    "maintenance": "15 Feb 2022 15 Days",
+    "days":"4 days overdue"
+  }
+]
